@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "References"
-date:   2020-04-02 13:58:32 +0200
-categories: alecsahew github.io references
+layout: page
+title: References
+permalink: /references/
 ---
 
 
