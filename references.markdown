@@ -4,7 +4,6 @@ title: References
 permalink: /references/
 ---
 
-
 [Tpot Honeypot][Tpot-lnk]                         
 [CIRCL Computer Incident Response Team Luxembourg][BGP-Ranking-lnk]          
 [Federal Office for Information Security][BSI-lnk]           
@@ -44,4 +43,11 @@ permalink: /references/
 [fireeye-blog.lnk]:     https://www.fireeye.de/blog.html
 [crowdstrike-blog.lnk]: https://www.crowdstrike.com/blog/
 [TALOS-blog.lnk]:       https://talosintelligence.com/
+
+
+* Botnets Architectures, Countermeasures, and Challenges.                           
+2019OCT08 Edited by Georgios Kambourakis, Marios Anagnostopoulos, Weizhi Meng, Peng Zhou
+
+* Digital Forensics and Incident Response. A practical guide to deploying digital forensic techniques in response to cyber security incidents.                     
+2017JUL24 Gerard Johansen
 
