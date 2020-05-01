@@ -7,7 +7,7 @@ categories: alecsahew github.io xor-ddos attacks
 
 ### Xor DDoS Attacks: Definition 
 
-XOR DDoS means Distributed Denial of Service Attacks.  
+Xor DDoS is a Distributed Denial of Service Attack.  
 
 XOR DDoS is a trojan malware hiding itself with an embedded rootkit that infects Linux systems. It is built for multiple Linux architectures like ARM, x86 and x64. 
 
