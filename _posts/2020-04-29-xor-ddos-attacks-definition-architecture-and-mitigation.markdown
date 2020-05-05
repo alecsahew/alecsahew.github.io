@@ -183,6 +183,8 @@ The malware communicates with the rootkit device via the ioctl system call
 * [Analysing Honeypots Running In T-PoT Part 03][ddos-lnk01]
 * [38-Day Long DDoS Siege Amounts to Over 50 Petabits in Bad Traffic][ddos-lnk02]
 * [Protection against Denial of ServiceAttacks: A Survey][ddos-lnk03]
+* [DDoS Quick Guide][ddos-lnk04]
+
 
 
 [ddos-lnk01]:https://alecsahew.github.io/alecsahew/github.io/cowrie/t-pot/honeypot/analysis/2020/04/19/analysing-honeypots-running-in-tpot-part-03.html
@@ -190,3 +192,5 @@ The malware communicates with the rootkit device via the ioctl system call
 [ddos-lnk02]:https://news.softpedia.com/news/38-Day-Long-DDoS-Siege-Amounts-to-Over-50-Petabits-in-Bad-Traffic-455722.shtml
 
 [ddos-lnk03]:http://www.georgeloukas.com/publications/LoukasOke-DoSSurveyComputerJournal.pdf
+
+[ddos-lnk04] https://www.us-cert.gov/sites/default/files/publications/DDoS%20Quick%20Guide.pdf
