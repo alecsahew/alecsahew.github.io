@@ -9,6 +9,8 @@ categories: alecsahew github.io Zerocalcare
 ## Zerocalcare - Rebibbia Quarantine 
 ##### DRAMMATICO REPORTAGE DALLA QUARANTENA DI ROMA NORD EST
 
+* [08 Maggio 2020][08maggio2020-lnk] Zerocalcare - Rebibbia Quarantine - POST SCRIPTUM
+
 * [01 Maggio 2020][01maggio2020-lnk] Zerocalcare - Rebibbia Quarantine - EPISODIO BAH: ENDGAME     
 
 * [24 Aprile 2020][24aprile2020-lnk] Zerocalcare - Rebibbia Quarantine - EPISODIO MAH: CIVIL WAR  
@@ -23,6 +25,7 @@ categories: alecsahew github.io Zerocalcare
 
 * [16 Marzo 2020][16marzo2020-lnk]   Zerocalcare - Rebibbia Quarantine - La serie cartoon di Zerocalcare  
 
+[08maggio2020-lnk]:  https://www.youtube.com/watch?v=WZKF5HG9aZQ 
 [01maggio2020-lnk]:  https://www.youtube.com/watch?v=-QpruNycIds 
 [24aprile2020-lnk]:  https://www.youtube.com/watch?v=hfWeC2bHKds
 [10aprile2020-lnk]:  https://www.youtube.com/watch?v=kI_gvEYBDB0
