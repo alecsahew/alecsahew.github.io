@@ -48,7 +48,7 @@ categories: alecsahew github.io TTP  Treat Actors
 * **AKA** TA542, Mummy Spider, GOLD CRESTWOOD 
 * **TARGET**:  it was used to target the banking sector. Nowadays Emotet is mostly seen as infrastructure as a service for content delivery acting for downloading other malware packages 
 * **MALWARE**: [Emotet.S0367] [TTP-lnk114] or Geodo 
-* **PACKEGES** TrickBot
+* **PACKEGES** TrickBot, ransomware Ryuk
 
 
 ### References 
